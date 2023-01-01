@@ -4,6 +4,7 @@
 - I'm junior front-end developer can make Web App. learned HTML, CSS, HTML5, CSS3, CSS Flex , CSS Grid , JavaScript, asynchronous JavaScript.Web. Accessibility ,DOM,AJAX, APIs. Agile/SCRUM Knowledge
 - :mailbox: You can reach me with the links below
 
+## Social media :mailbox_with_no_mail:
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/El_sayedH22)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/simply_elsayed22/)
@@ -14,7 +15,7 @@
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://www.flaticon.com/free-icon/css-3_5968242?term=css3&page=1&position=3&origin=search&related_id=5968242)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 
@@ -24,6 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
 ##### Some of my favorite open source projects
