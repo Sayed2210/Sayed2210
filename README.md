@@ -12,8 +12,7 @@
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![CSS](https://img.shields.io/badge/-Java-000000?style=flat&logo=css)
+![CSS](https://www.flaticon.com/free-icon/css-3_5968242?term=css3&page=1&position=3&origin=search&related_id=5968242)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 
