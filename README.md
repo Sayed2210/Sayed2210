@@ -1,7 +1,7 @@
 ##### Hi, I'm Elsayed:
 
 - 🎓Recent computer science graduate from MU - Mansoura
-- I'm junior front-end developer can make Web App. learned HTML, CSS, HTML5, CSS3, CSS Flex , CSS Grid , JavaScript, asynchronous JavaScript.Web. Accessibility ,DOM,AJAX, APIs. Agile/SCRUM Knowledge
+- As a Junior Front-End Developer, I have honed my skills in HTML, HTML5, CSS, CSS3, JS, Bootstrap, GulpJS, PugJS, Jest, and VueJS. My passion for web development drives me to stay up-to-date with the latest technologies and trends, allowing me to create visually appealing and user-friendly websites. I have experience collaborating with designers and developers to bring their ideas to life, and I am always eager to learn new skills and take on new challenges. Whether it's building responsive layouts or writing efficient and maintainable code, I am dedicated to delivering high-quality work that meets the needs of my clients. If you're looking for a Junior Front-End Developer with a strong foundation in web development and a passion for continuous learning
 - :mailbox: You can reach me with the links below
 
 ## Social media :mailbox_with_no_mail:
